@@ -12,7 +12,7 @@ authors = [
     "Ash Manning <ash@layertwolabs.com>",
     "Nikita Chashchinskii <nikita.chashchinskii@gmail.com>"
 ]
-edition = "2021"
+edition = "2024"
 version = "0.10.4"
 
 [workspace.dependencies.rustreexo]
